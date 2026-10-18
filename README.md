@@ -7,4 +7,4 @@
 
 ##文件导航
 [AI使用说明.md](https://github.com/hongruping717/sosd-/blob/main/AI%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
-https://github.com/hongruping717/sosd-/blob/main/AI%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%8C%91%E6%88%98%E4%BB%BB%E5%8A%A1%E9%97%AE%E9%A2%98%E5%9B%9E%E7%AD%94.md
+[AI基础设施挑战任务Q&A]https://github.com/hongruping717/sosd-/blob/main/AI%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%8C%91%E6%88%98%E4%BB%BB%E5%8A%A1%E9%97%AE%E9%A2%98%E5%9B%9E%E7%AD%94.md
