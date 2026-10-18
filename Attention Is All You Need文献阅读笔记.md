@@ -1,4 +1,4 @@
-Attention Is All You Need文献阅读笔记
+Attention Is All You Need文献阅读笔记  
 1、	对标题的理解：自注意力（一个序列里的token会自动看其他token计算找出与自己相似度最高的，将它们的信息加权汇总起来得到自己新的表示）＋并行计算（一整个序列一起进行计算）=颠覆了RNN的顺序计算方式。  
 2、	当时占主导的是卷积神经网络CNN和循环神经网络RNN  
 3、	概要：提出仅基于注意力机制的简单模型：transformer  
