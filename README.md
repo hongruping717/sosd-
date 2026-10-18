@@ -7,9 +7,9 @@
 
 ##文件导航
 [AI使用说明.md](https://github.com/hongruping717/sosd-/blob/main/AI%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
-[AI基础设施挑战任务Q&A](https://github.com/hongruping717/sosd-/blob/main/AI%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%8C%91%E6%88%98%E4%BB%BB%E5%8A%A1%E9%97%AE%E9%A2%98%E5%9B%9E%E7%AD%94.md)
-[AI基础设施挑战个人感受](https://github.com/hongruping717/sosd-/blob/main/AI%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%8C%91%E6%88%98%E4%B8%AA%E4%BA%BA%E6%84%9F%E5%8F%97.md)
-[AI基础设施两篇论文泛读笔记](https://github.com/hongruping717/sosd-/blob/main/AI%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E4%B8%A4%E7%AF%87%E8%AE%BA%E6%96%87%E6%B3%9B%E8%AF%BB%E7%AC%94%E8%AE%B0.md)
+[AI基础设施挑战任务Q&A](https://github.com/hongruping717/sosd-/blob/main/AI%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%8C%91%E6%88%98%E4%BB%BB%E5%8A%A1%E9%97%AE%E9%A2%98%E5%9B%9E%E7%AD%94.md)  
+[AI基础设施挑战个人感受](https://github.com/hongruping717/sosd-/blob/main/AI%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%8C%91%E6%88%98%E4%B8%AA%E4%BA%BA%E6%84%9F%E5%8F%97.md)  
+[AI基础设施两篇论文泛读笔记](https://github.com/hongruping717/sosd-/blob/main/AI%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E4%B8%A4%E7%AF%87%E8%AE%BA%E6%96%87%E6%B3%9B%E8%AF%BB%E7%AC%94%E8%AE%B0.md)  
 [环境配置报告](https://github.com/hongruping717/sosd-/blob/main/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E6%8A%A5%E5%91%8A.md)
-对应截图[pytorch success](https://github.com/hongruping717/sosd-/blob/main/pytorch%E6%88%90%E5%8A%9F%E9%85%8D%E7%BD%AE.png)
-[Attention Is All You Need论文阅读笔记](https://github.com/hongruping717/sosd-/blob/main/Attention%20Is%20All%20You%20Need%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0.md)
+对应截图[pytorch success](https://github.com/hongruping717/sosd-/blob/main/pytorch%E6%88%90%E5%8A%9F%E9%85%8D%E7%BD%AE.png)  
+[Attention Is All You Need论文阅读笔记](https://github.com/hongruping717/sosd-/blob/main/Attention%20Is%20All%20You%20Need%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0.md)  
