@@ -6,3 +6,4 @@
 我也尝试sosd招新群里的AI-NLP文件，成功搭建pytorch环境，相对精读了attention这篇论文，还在理解当中。
 
 ##文件导航
+AI使用说明.md
