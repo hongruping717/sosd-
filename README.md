@@ -12,3 +12,4 @@
 [AI基础设施两篇论文泛读笔记](https://github.com/hongruping717/sosd-/blob/main/AI%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E4%B8%A4%E7%AF%87%E8%AE%BA%E6%96%87%E6%B3%9B%E8%AF%BB%E7%AC%94%E8%AE%B0.md)
 [环境配置报告](https://github.com/hongruping717/sosd-/blob/main/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E6%8A%A5%E5%91%8A.md)
 对应截图[pytorch success](https://github.com/hongruping717/sosd-/blob/main/pytorch%E6%88%90%E5%8A%9F%E9%85%8D%E7%BD%AE.png)
+[Attention Is All You Need论文阅读笔记](https://github.com/hongruping717/sosd-/blob/main/Attention%20Is%20All%20You%20Need%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0.md)
